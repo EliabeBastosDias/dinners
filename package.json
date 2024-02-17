@@ -1,0 +1,8 @@
+{
+  "name": "dinners",
+  "version": "1.0.0",
+  "description": "Application that automatically manages menu and restaurant orders",
+  "scripts": {},
+  "author": "Eliabe Bastos Dias",
+  "license": "ISC"
+}
