@@ -1,8 +1,12 @@
-import express from "express";
+import express, { Express } from "express";
 import { Router } from "../routers/router";
 
 export class HttpServer {
-  constructor(private app = express(), private port = 3000) { }
+  private app: Express;
+
+  constructor(private port: number) {
+    this.app = express()
+  }
 
   public setup(): void {
     this.serverSetup();
