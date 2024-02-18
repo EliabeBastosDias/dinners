@@ -1,0 +1,1 @@
+# Init eslint and prettier
