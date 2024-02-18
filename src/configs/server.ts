@@ -1,5 +1,5 @@
-import express, { Express } from "express";
-import { Router } from "../routers/router";
+import express, { Express } from 'express';
+import { Router } from '../routers/router';
 
 export class HttpServer {
   private app: Express;

@@ -1,6 +1,6 @@
-import { Express } from "express";
+import { Express } from 'express';
 
-import { addMainRouter } from "./addMainRouter";
+import { addMainRouter } from './addMainRouter';
 
 export class Router {
   constructor(private app: Express) { }
