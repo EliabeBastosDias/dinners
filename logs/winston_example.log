@@ -1,0 +1,7 @@
+{"level":"info","message":"Memory Metric: Server running","metadata":{},"timestamp":"2024-02-18T02:59:12.696Z"}
+{"level":"info","message":"Rss Memory: 57.63 MB\n            HeapTotal Memory: 17.42 MB\n            HeapUser Memory: 10.52 MB\n            External Memory: 2.11 MB\n            ArrayBuffers Memory: 0.02 MB","metadata":{},"timestamp":"2024-02-18T02:59:12.698Z"}
+{"level":"info","message":"Memory Metric: Server running","metadata":{},"timestamp":"2024-02-18T03:00:17.271Z"}
+{"level":"info","message":"\nRss Memory: 56.56 MB\nHeapTotal Memory: 16.67 MB\nHeapUser Memory: 11.25 MB\nExternal Memory: 2.11 MB\nArrayBuffers Memory: 0.02 MB","metadata":{},"timestamp":"2024-02-18T03:00:17.273Z"}
+{"level":"info","message":"Memory Metric: Server running\nRss Memory: 56.51 MB\nHeapTotal Memory: 16.92 MB\nHeapUser Memory: 11.35 MB\nExternal Memory: 2.11 MB\nArrayBuffers Memory: 0.02 MB","metadata":{},"timestamp":"2024-02-18T03:00:48.394Z"}
+{"level":"info","message":"Memory Metric: Server running\n\tRss Memory: 57.39 MB\n\tHeapTotal Memory: 16.67 MB\n\tHeapUser Memory: 11.3 MB\n\tExternal Memory: 2.11 MB\n\tArrayBuffers Memory: 0.02 MB","metadata":{},"timestamp":"2024-02-18T03:01:05.893Z"}
+{"level":"info","message":"Memory Metric: Server running\n\tRss Memory: 59.95 MB\n\tHeapTotal Memory: 16.67 MB\n\tHeapUser Memory: 11.21 MB\n\tExternal Memory: 2.11 MB\n\tArrayBuffers Memory: 0.02 MB","metadata":{},"timestamp":"2024-02-18T03:01:54.382Z"}
